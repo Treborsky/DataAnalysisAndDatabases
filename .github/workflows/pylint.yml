@@ -19,4 +19,4 @@ jobs:
         python -m pip install pylint
     - name: Analysing the code with pylint
       run: |
-        python -m pylint `ls -R|grep .py$|xargs`
+        python -m pylint lab2-Earthquake-Worries/CommandFiles/*
