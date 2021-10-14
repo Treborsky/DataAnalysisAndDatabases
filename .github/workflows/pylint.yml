@@ -19,4 +19,4 @@ jobs:
         python -m pip install pylint
     - name: Analysing the code with pylint
       run: |
-        python -m pylint **/CommandFiles/*
+        python -m pylint --fail-under=8 **/CommandFiles/*.py
