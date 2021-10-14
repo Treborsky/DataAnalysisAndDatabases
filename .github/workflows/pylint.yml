@@ -16,7 +16,7 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        python -m pip install -r requirements.txt
+        python -m pip install -r .github/workflows/job-requirements.txt
     - name: Analysing the code with pylint
       run: |
         python -m pylint --fail-under=8 **/CommandFiles/*.py
