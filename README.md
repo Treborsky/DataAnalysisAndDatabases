@@ -16,3 +16,14 @@ Laboratorium z ABD i wszystkie rzeczy z tym związane.
  - [ ] lab12
  - [ ] lab13
  - [ ] lab14
+
+## Technologie
+ - `Python` 3.8 i 3.9.4, 
+ - `pip` jako packet manager,
+ - `venv` jako wirtualne środowisko,
+ - `pylint` jako linter.
+ 
+ Dodatkowo, skonfigurowany został workflow pozwalający na lintowanie kodu po commitcie.
+ Używam także `pre-commit` hook-a, który czyści output z komórek w notebooku (oszczędność miejsca).
+ Jeśli ktoś chce zobaczyć output, musi sklonować repozytorium, aktywować środowisko i odpalić 
+ notebook (run all).
