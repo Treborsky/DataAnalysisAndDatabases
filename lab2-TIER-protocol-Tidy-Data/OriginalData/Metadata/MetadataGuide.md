@@ -2,7 +2,7 @@
 
 ## Source
 
-The data was originally taken from [repository](https://github.com/fivethirtyeight/data/tree/master/san-andreas). It was used in the story [The Rock Isn’t Alone: Lots Of People Are Worried About ‘The Big One’ ](https://fivethirtyeight.com/features/the-rock-isnt-alone-lots-of-people-are-worried-about-the-big-one/)
+The data was originally taken from [this repository](https://github.com/fivethirtyeight/data/tree/master/san-andreas). It was used in the story [The Rock Isn’t Alone: Lots Of People Are Worried About ‘The Big One’ ](https://fivethirtyeight.com/features/the-rock-isnt-alone-lots-of-people-are-worried-about-the-big-one/)
 
 ## Format
 

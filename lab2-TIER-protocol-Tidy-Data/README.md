@@ -4,4 +4,4 @@
 Uczymy się TIER protocol (w wersji 3.) oraz Tidy Data. 
 
 ## Wykonanie
-Projekt wykonany po angielsku
+Kod, komentarze i wszystkie uwagi zostały opisane po angielsku.

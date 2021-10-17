@@ -5,13 +5,11 @@ Male,18 - 29,No
 Male,18 - 29,No
 Male,18 - 29,Yes
 Male,18 - 29,No
-,,Yes
 Male,18 - 29,No
 Male,18 - 29,No
 Male,18 - 29,No
 Male,18 - 29,No
 Male,18 - 29,No
-,,Yes
 Male,18 - 29,Yes
 Male,18 - 29,No
 Male,18 - 29,Yes
@@ -150,7 +148,6 @@ Male,45 - 59,No
 Male,60,Yes
 Male,45 - 59,No
 Male,45 - 59,Yes
-,,No
 Male,30 - 44,Yes
 Male,30 - 44,No
 Male,60,No
@@ -161,7 +158,6 @@ Male,60,Yes
 Male,18 - 29,No
 Male,30 - 44,No
 Male,45 - 59,No
-,,No
 Male,45 - 59,No
 Male,18 - 29,No
 Male,18 - 29,Yes
@@ -357,7 +353,6 @@ Female,60,Yes
 Male,60,No
 Male,18 - 29,No
 Male,18 - 29,No
-,,Yes
 Female,30 - 44,No
 Male,45 - 59,Yes
 Female,45 - 59,No
@@ -394,7 +389,6 @@ Male,60,No
 Male,30 - 44,Yes
 Female,18 - 29,No
 Female,30 - 44,No
-,,Yes
 Male,45 - 59,No
 Female,60,No
 Female,45 - 59,No
@@ -605,7 +599,6 @@ Female,18 - 29,Yes
 Male,60,No
 Female,60,Yes
 Female,30 - 44,Yes
-,,No
 Female,60,No
 Female,30 - 44,No
 Female,45 - 59,No
@@ -658,7 +651,6 @@ Female,60,No
 Female,45 - 59,No
 Male,45 - 59,Yes
 Female,45 - 59,Yes
-,,No
 Male,60,Yes
 Male,30 - 44,No
 Male,45 - 59,Yes
@@ -736,7 +728,6 @@ Female,30 - 44,No
 Female,60,Yes
 Female,60,Yes
 Male,60,No
-,,Yes
 Male,30 - 44,No
 Female,30 - 44,No
 Female,45 - 59,No
@@ -871,7 +862,6 @@ Female,60,No
 Female,18 - 29,No
 Female,60,No
 Male,60,No
-,,Yes
 Male,60,Yes
 Female,45 - 59,No
 Female,18 - 29,No
@@ -991,7 +981,6 @@ Female,30 - 44,Yes
 Female,30 - 44,Yes
 Female,60,No
 Female,30 - 44,Yes
-,,No
 Male,45 - 59,Yes
 Female,30 - 44,No
 Female,30 - 44,No
@@ -1011,4 +1000,3 @@ Male,60,No
 Female,60,No
 Female,30 - 44,No
 Female,30 - 44,No
-,,No
