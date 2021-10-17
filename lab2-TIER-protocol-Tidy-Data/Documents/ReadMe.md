@@ -12,4 +12,10 @@ The file _process_data.py_ __must__ be run from the _lab2/OriginalData_ director
 
 ### More on the data
 The data source and structure has been described in the `MetadataGuide.md`. You can find the original and untouched data set in the `OriginalData` directory. 
-The `AnalysisData` directory contains the processed data, that has been used in the analysis and presentation. The processed data file is generated from only original data.
+The `AnalysisData` directory contains the processed data, that has been used in the analysis and presentation. The processed data file is generated from only original data.  
+
+### Processing of data
+The script that generates the processed data:
+1. Selects the three columns of interest.
+2. Removes all records with NaN values.
+3. Saves the file without sorting in any shape or form, in `.csv` fromat.

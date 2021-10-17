@@ -11,3 +11,4 @@ This file contains processed data. The three columns are:
  - BigOneInLifetimePred
      - answer to the question _Do you think the "Big One" will occur in your lifetime?_
      - a yes/no `string`
+
